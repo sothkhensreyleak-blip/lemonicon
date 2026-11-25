@@ -1,0 +1,20 @@
+name: CrownIcon
+version: 1.0.0
+main: com.crownixed.icon.CrownIconPlugin
+api-version: '1.20'
+author: "*crownixed៚"
+softdepend:
+  - PlaceholderAPI
+description: Custom Minecraft item and block icon placeholders for TAB and Scoreboard.
+
+commands:
+  crownicon:
+    description: Manage CrownIcon plugin and list all icon placeholders.
+    usage: /<command> <list|reload>
+    aliases: [lemonicon, cicon]
+    permission: crownicon.admin
+
+permissions:
+  crownicon.admin:
+    description: Allows listing placeholders and reloading CrownIcon config.
+    default: op

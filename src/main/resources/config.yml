@@ -1,0 +1,53 @@
+# ==========================================
+# CrownIcon Configuration
+# Author: *crownixed៚
+# ==========================================
+
+plugin-info:
+  name: "CrownIcon"
+  author: "*crownixed៚"
+  version: "1.0.0"
+
+# ------------------------------------------
+# របៀបប្រើប្រាស់ក្នុង TAB / Scoreboard / Chat:
+# ប្រើ %crownicon:<ឈ្មោះ>% ឬ %crownicon_<ឈ្មោះ>%
+# ឧទាហរណ៍: %crownicon:armor_stand% , %crownicon:netherite_sword%
+#
+# សម្គាល់: បើអ្នកមាន Resource Pack ផ្ទាល់ខ្លួន សូមដាក់តួអក្សរ Glyph / Unicode
+# របស់ Resource Pack នោះជំនួសតម្លៃខាងក្រោម (ឧទាហរណ៍ "\uE001")
+# ------------------------------------------
+
+icons:
+  # --- Armor & Combat ---
+  armor_stand: "🧍"
+  netherite_spear: "🗡"
+  netherite_sword: "⚔"
+  mace: "🔨"
+  trident: "🔱"
+  elytra: "🦋"
+
+  # --- Tools & Utility ---
+  netherite_pickaxe: "⛏"
+  axe: "🪓"
+  shears: "✂"
+  flint_and_steel: "🔥"
+  clock: "🕒"
+  name_tag: "🏷"
+
+  # --- Blocks & Redstone/Rare ---
+  beacon: "🔆"
+  bell: "🔔"
+  heavy_core: "⚙"
+  block_of_netherite: "⬛"
+  sculk_shrieker: "🔊"
+  grass_block: "🟩"
+
+  # --- Nature & Bees ---
+  cherry_sapling: "🌸"
+  torchflower: "🌻"
+  pink_petals: "🌷"
+  bee_nest: "🍯"
+  honeycomb_block: "🟨"
+
+  # --- Smithing ---
+  netherite_upgrade: "🧬"
